@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jkelley129
-- 👀 I’m interested in all kinds of programming, but I mostly program for my FTC team 20726 Tobor the Viking.
 - 🌱 I’m currently learning more about programming and different applications like game design, robots, and more
 - ⚡ Fun fact: I taught myself Java
 
