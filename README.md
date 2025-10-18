@@ -3,7 +3,9 @@
 I like to program in a variety of different fields, including
 - Systems programming
 - Robotics(Pathfinding, computer vision)
+- Parsers
 - Game dev
 - Low level concepts
+- Esoteric languages
 - And more!
   
