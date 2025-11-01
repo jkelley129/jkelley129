@@ -9,11 +9,7 @@ I like to program in a variety of different fields, including
 - Low level concepts
 - Esoteric languages
 - And more!
-
-## Current Projects
-- [IGNIS-OS](https://github.com/jkelley129/IGNIS-OS): A personal hobby OS from scratch
-- [Aurion-RT](https://github.com/Aurion-RT): An integrated CPU, assembly, high level language, and OS
-
+  
 ## Organizations
 - FTC Team [15534 - VERTEX](https://github.com/15534) • Programming Team
-- [Aurion-RT](https://github.com/Aurion-RT) • Developer
+- [Aurion-XT](https://github.com/Aurion-XT) • Developer
