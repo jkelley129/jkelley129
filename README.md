@@ -18,7 +18,6 @@ I like to program in a variety of different fields, including
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkelley129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-Currently Down
 ![](https://github-profile-trophy.vercel.app/?username=jkelley129&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
