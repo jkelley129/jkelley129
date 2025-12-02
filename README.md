@@ -15,7 +15,7 @@ I like to program in a variety of different fields, including
 # Random GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jkelley129&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jkelley129&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkelley129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-three-alpha-0etkpbdpuz.vercel.app/api/top-langs/?username=jkelley129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jkelley129&theme=radical&no-frame=false&no-bg=false&margin-w=4)
